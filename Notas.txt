@@ -2,3 +2,8 @@ instalar node.js
 instalar el npm install -g static-server
 ir a la carpeta del proyecto a desplegar
 ejecutar static-server
+
+
+activar opciones de desarrollador celular
+abrir en chrome del celular la url del servidor
+para el pc chrome://inspect/
