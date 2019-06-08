@@ -1,0 +1,4 @@
+instalar node.js
+instalar el npm install -g static-server
+ir a la carpeta del proyecto a desplegar
+ejecutar static-server
